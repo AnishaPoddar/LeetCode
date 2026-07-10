@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/AnishaPoddar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AnishaPoddar/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AnishaPoddar/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
