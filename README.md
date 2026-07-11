@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/AnishaPoddar/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/AnishaPoddar/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
