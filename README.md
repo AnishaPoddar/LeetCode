@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/AnishaPoddar/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AnishaPoddar/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/AnishaPoddar/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/AnishaPoddar/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AnishaPoddar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/AnishaPoddar/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
