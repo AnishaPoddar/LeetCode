@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AnishaPoddar/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/AnishaPoddar/LeetCode/tree/master/0326-power-of-three) |
 | [1952-three-divisors](https://github.com/AnishaPoddar/LeetCode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/AnishaPoddar/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AnishaPoddar/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnishaPoddar/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AnishaPoddar/LeetCode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
