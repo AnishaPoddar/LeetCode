@@ -1,25 +1,18 @@
 class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
-        int max=0;
+        int maxi=0;
         for(int i=0 ; i<candies.size(); i++)
         {
-            if(candies[i]>max)
+            if(candies[i]>maxi)
             {
-                max=candies[i];
+                maxi=candies[i];
             }
         }
         vector<bool> output;
         for(int i=0 ; i<candies.size();i++)
         {
-            if(candies[i]+extraCandies >=max)
-            {
-                output.push_back(true);
-            }
-            else
-            {
-                output.push_back(false);
-            }
+           output.push_back(candies[i]+extraCandies >=maxi);
         }
         return output;
         
