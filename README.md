@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AnishaPoddar/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Prefix Sum
 |  |
