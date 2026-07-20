@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnishaPoddar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/AnishaPoddar/LeetCode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnishaPoddar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
