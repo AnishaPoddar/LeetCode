@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AnishaPoddar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AnishaPoddar/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnishaPoddar/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnishaPoddar/LeetCode/tree/master/0326-power-of-three) |
