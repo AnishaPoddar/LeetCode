@@ -6,7 +6,7 @@ public:
         {
             if(words[i].find(x)!= string::npos)
             {
-                ans.push_back(i);
+                ans.push_back(i); 
             }
         }
         return ans;
