@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnishaPoddar/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnishaPoddar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnishaPoddar/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnishaPoddar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/AnishaPoddar/LeetCode/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AnishaPoddar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/AnishaPoddar/LeetCode/tree/master/1528-shuffle-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
