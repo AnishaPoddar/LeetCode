@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnishaPoddar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/AnishaPoddar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
