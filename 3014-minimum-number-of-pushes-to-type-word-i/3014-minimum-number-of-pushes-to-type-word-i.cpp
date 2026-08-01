@@ -1,12 +1,23 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        double count=0;
-        for(int i=0 ; i<word.size(); i++)
+        int count=0;
+        int n=word.size();
+        if(n<=8)
         {
-            count+=ceil(i/8)+1;
+            return n;
         }
-        return int(count);
-        
+        else if(n>8 && n<=16)
+        {
+            return 8+2*(n-8);
+        }
+        else if(n<=24)
+        {
+            return 24+3*(n-16);
+        }   
+        else
+        {
+            return 48+ 4*(n-24);
+        }
     }
 };
