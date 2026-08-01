@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnishaPoddar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
