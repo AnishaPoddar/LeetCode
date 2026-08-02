@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AnishaPoddar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AnishaPoddar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AnishaPoddar/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AnishaPoddar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -337,10 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnishaPoddar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnishaPoddar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
