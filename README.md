@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AnishaPoddar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0162-find-peak-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/AnishaPoddar/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/AnishaPoddar/LeetCode/tree/master/0412-fizz-buzz) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AnishaPoddar/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/AnishaPoddar/LeetCode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
