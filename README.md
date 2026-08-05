@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AnishaPoddar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AnishaPoddar/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/AnishaPoddar/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/AnishaPoddar/LeetCode/tree/master/0412-fizz-buzz) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnishaPoddar/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/AnishaPoddar/LeetCode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
