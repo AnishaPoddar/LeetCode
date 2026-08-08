@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/AnishaPoddar/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/AnishaPoddar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/AnishaPoddar/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0796-rotate-string) |
@@ -294,12 +295,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnishaPoddar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnishaPoddar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Game Theory
