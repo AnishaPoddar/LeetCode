@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishaPoddar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AnishaPoddar/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/AnishaPoddar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishaPoddar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/AnishaPoddar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishaPoddar/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
