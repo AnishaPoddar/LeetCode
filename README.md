@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishaPoddar/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/AnishaPoddar/LeetCode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/AnishaPoddar/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnishaPoddar/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/AnishaPoddar/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/AnishaPoddar/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
