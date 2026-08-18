@@ -12,11 +12,6 @@ public:
             while((i-j+1)-maxfreq >k)
             {
                 ans[s[j]-'A']--;
-                maxfreq=0;
-                for(int k=0 ; k< 26 ; k++)
-                {
-                    maxfreq=max(maxfreq, ans[k]);
-                }
                 j++;
             }
              maxlen=max(maxlen, i-j+1);
