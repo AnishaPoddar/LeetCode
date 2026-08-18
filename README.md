@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnishaPoddar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnishaPoddar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishaPoddar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnishaPoddar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AnishaPoddar/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnishaPoddar/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnishaPoddar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/AnishaPoddar/LeetCode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnishaPoddar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AnishaPoddar/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/AnishaPoddar/LeetCode/tree/master/1108-defanging-an-ip-address) |
