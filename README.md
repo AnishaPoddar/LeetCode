@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2942-find-words-containing-character](https://github.com/AnishaPoddar/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AnishaPoddar/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/AnishaPoddar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AnishaPoddar/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
