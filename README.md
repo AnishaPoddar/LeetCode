@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AnishaPoddar/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnishaPoddar/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
