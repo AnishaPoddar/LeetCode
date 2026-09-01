@@ -7,18 +7,12 @@ public:
             if(target > startValue && target %2==0)
             {
                 target/=2;
-                count++;
             }
-            else if(target > startValue && target %2!=0)
+            else 
             {
                 target++;
-                count++;
             }
-            else
-            {
-                target++;
-                count++;
-            }
+            count++;
         }
         return count;
         
