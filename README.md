@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnishaPoddar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnishaPoddar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0912-sort-an-array) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AnishaPoddar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaPoddar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
