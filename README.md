@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AnishaPoddar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AnishaPoddar/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AnishaPoddar/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0169-majority-element) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
