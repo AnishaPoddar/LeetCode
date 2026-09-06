@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnishaPoddar/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/AnishaPoddar/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnishaPoddar/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/AnishaPoddar/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/AnishaPoddar/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AnishaPoddar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnishaPoddar/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/AnishaPoddar/LeetCode/tree/master/0991-broken-calculator) |
+| [1383-maximum-performance-of-a-team](https://github.com/AnishaPoddar/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/AnishaPoddar/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
