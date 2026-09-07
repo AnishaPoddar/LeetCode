@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/0575-distribute-candies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/AnishaPoddar/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/AnishaPoddar/LeetCode/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/AnishaPoddar/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/AnishaPoddar/LeetCode/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnishaPoddar/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaPoddar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
@@ -513,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0056-merge-intervals) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
