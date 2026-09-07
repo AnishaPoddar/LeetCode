@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnishaPoddar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/AnishaPoddar/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/0575-distribute-candies) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/AnishaPoddar/LeetCode/tree/master/0502-ipo) |
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/AnishaPoddar/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnishaPoddar/LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/AnishaPoddar/LeetCode/tree/master/0502-ipo) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/AnishaPoddar/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnishaPoddar/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/AnishaPoddar/LeetCode/tree/master/0502-ipo) |
 | [0912-sort-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/AnishaPoddar/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
