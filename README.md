@@ -546,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/AnishaPoddar/LeetCode/tree/master/1029-two-city-scheduling) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
