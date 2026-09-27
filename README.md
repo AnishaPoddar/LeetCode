@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/AnishaPoddar/LeetCode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/AnishaPoddar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0867-transpose-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AnishaPoddar/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/AnishaPoddar/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AnishaPoddar/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
