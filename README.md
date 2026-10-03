@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/AnishaPoddar/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0983-minimum-cost-for-tickets](https://github.com/AnishaPoddar/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnishaPoddar/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnishaPoddar/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AnishaPoddar/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/AnishaPoddar/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/AnishaPoddar/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3693-climbing-stairs-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
