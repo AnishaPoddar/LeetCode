@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnishaPoddar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/AnishaPoddar/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/AnishaPoddar/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishaPoddar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnishaPoddar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnishaPoddar/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/AnishaPoddar/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/AnishaPoddar/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3693-climbing-stairs-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
@@ -608,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnishaPoddar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AnishaPoddar/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
