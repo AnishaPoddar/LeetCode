@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishaPoddar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnishaPoddar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/AnishaPoddar/LeetCode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/AnishaPoddar/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AnishaPoddar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AnishaPoddar/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/AnishaPoddar/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaPoddar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AnishaPoddar/LeetCode/tree/master/0198-house-robber) |
