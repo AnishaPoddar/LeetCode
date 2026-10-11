@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnishaPoddar/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnishaPoddar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AnishaPoddar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AnishaPoddar/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/AnishaPoddar/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/AnishaPoddar/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnishaPoddar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
 | ------- |
