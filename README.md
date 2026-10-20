@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AnishaPoddar/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/AnishaPoddar/LeetCode/tree/master/0575-distribute-candies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/AnishaPoddar/LeetCode/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnishaPoddar/LeetCode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AnishaPoddar/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AnishaPoddar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AnishaPoddar/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AnishaPoddar/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/AnishaPoddar/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AnishaPoddar/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnishaPoddar/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AnishaPoddar/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AnishaPoddar/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/AnishaPoddar/LeetCode/tree/master/0740-delete-and-earn) |
