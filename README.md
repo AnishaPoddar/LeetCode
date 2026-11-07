@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AnishaPoddar/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/AnishaPoddar/LeetCode/tree/master/1528-shuffle-string) |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/AnishaPoddar/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnishaPoddar/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AnishaPoddar/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnishaPoddar/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishaPoddar/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnishaPoddar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AnishaPoddar/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnishaPoddar/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnishaPoddar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/AnishaPoddar/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
 | ------- |
@@ -595,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnishaPoddar/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnishaPoddar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -719,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AnishaPoddar/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnishaPoddar/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnishaPoddar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -771,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0494-target-sum) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
