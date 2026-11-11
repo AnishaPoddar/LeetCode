@@ -1,28 +1,5 @@
 class Solution {
 public:
-    bool partition(int n , vector<int>& nums, vector<vector<int>>& dp, int target)
-    {
-        if(target==0)
-        {
-            return true;
-        }
-        if(n==0 )
-        {
-            return nums[n]==target;
-        }
-        if(dp[n][target]!=-1)
-        {
-            return dp[n][target];
-        }
-        bool take=false;
-        bool nottake=partition(n-1, nums, dp , target);
-        if(target>=nums[n])
-        {
-            take=partition(n-1, nums , dp , target-nums[n]);
-        }
-        dp[n][target]=take|| nottake;
-        return dp[n][target];
-    }
     bool canPartition(vector<int>& nums) {
         int sum=0;
         for(int i=0 ; i< nums.size(); i++)
@@ -33,9 +10,27 @@ public:
         {
             return false;
         }
-        int target=sum/2;
-        vector<vector<int>> dp(nums.size(), vector<int> (target+1, -1));
-        return partition(nums.size()-1 , nums , dp, target);
-        
+        vector<vector<bool>> dp(nums.size(), vector<bool> ((sum/2)+1));
+        for(int i=0 ; i<=sum/2; i++)
+        {
+            dp[0][i]=nums[0]==i?true:false;
+        }
+        for(int i=0 ; i<nums.size(); i++)
+        {
+            dp[i][0]=true;
+        }
+        for(int i=1 ; i<nums.size(); i++)
+        {
+            for(int j=1 ;j<=sum/2; j++)
+            {
+                bool not_take=dp[i-1][j];
+                bool take = false;
+                if (j >= nums[i]) {
+                    take = dp[i - 1][j - nums[i]];
+                }
+                dp[i][j] = not_take || take;
+            }
+        }
+        return dp[nums.size()-1][sum/2];  
     }
 };
