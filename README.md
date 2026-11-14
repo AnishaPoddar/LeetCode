@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnishaPoddar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AnishaPoddar/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnishaPoddar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AnishaPoddar/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnishaPoddar/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnishaPoddar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnishaPoddar/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/AnishaPoddar/LeetCode/tree/master/3870-count-commas-in-range) |
