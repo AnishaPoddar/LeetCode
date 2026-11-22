@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaPoddar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AnishaPoddar/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/AnishaPoddar/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnishaPoddar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0169-majority-element) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnishaPoddar/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishaPoddar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnishaPoddar/LeetCode/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/AnishaPoddar/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AnishaPoddar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AnishaPoddar/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnishaPoddar/LeetCode/tree/master/0217-contains-duplicate) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnishaPoddar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnishaPoddar/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AnishaPoddar/LeetCode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/AnishaPoddar/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/AnishaPoddar/LeetCode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/AnishaPoddar/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/0402-remove-k-digits) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AnishaPoddar/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/AnishaPoddar/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishaPoddar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/AnishaPoddar/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AnishaPoddar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AnishaPoddar/LeetCode/tree/master/0322-coin-change) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AnishaPoddar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AnishaPoddar/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AnishaPoddar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
@@ -787,4 +792,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AnishaPoddar/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AnishaPoddar/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
