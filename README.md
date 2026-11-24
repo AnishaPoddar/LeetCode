@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/AnishaPoddar/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/AnishaPoddar/LeetCode/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnishaPoddar/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1791-find-center-of-star-graph](https://github.com/AnishaPoddar/LeetCode/tree/master/1791-find-center-of-star-graph) |
 ## Graph Coloring
 |  |
 | ------- |
