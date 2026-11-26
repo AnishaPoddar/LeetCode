@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AnishaPoddar/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnishaPoddar/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnishaPoddar/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AnishaPoddar/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/AnishaPoddar/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/AnishaPoddar/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnishaPoddar/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3693-climbing-stairs-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3693-climbing-stairs-ii) |
