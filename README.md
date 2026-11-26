@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/AnishaPoddar/LeetCode/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/AnishaPoddar/LeetCode/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AnishaPoddar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/AnishaPoddar/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/AnishaPoddar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/AnishaPoddar/LeetCode/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnishaPoddar/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnishaPoddar/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
