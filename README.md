@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/AnishaPoddar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AnishaPoddar/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2748-number-of-beautiful-pairs](https://github.com/AnishaPoddar/LeetCode/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnishaPoddar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AnishaPoddar/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AnishaPoddar/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnishaPoddar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/AnishaPoddar/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnishaPoddar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AnishaPoddar/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnishaPoddar/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnishaPoddar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/AnishaPoddar/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3693-climbing-stairs-ii](https://github.com/AnishaPoddar/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Monotonic Stack
 |  |
